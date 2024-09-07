@@ -5,7 +5,7 @@ This project is a simple and interactive Random Password Generator built using *
 
 ## Demo
 
-Check out the live demo [Click Here](https://shanedrasingh.github.io/Quiz-App/). 
+Check out the live demo [Click Here](https://shanedrasingh.github.io/Random-Password-Generator/). 
 
 ## Features
 
